@@ -1,1 +1,1 @@
-This is HKTG's first git project!!!
+This is HKTG's first git project!!! Hello, Odin!
